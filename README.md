@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mode-Eako
+- 👋 Hi, My name is Mohamed Eaman
 - 👀 I’m interested in TCG, Manga
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Portfolio Projects
